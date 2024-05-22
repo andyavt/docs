@@ -6,6 +6,8 @@ The development board is intended for developers and advanced users. It features
 
 Features:
 ---------
+Technical Specifications
+------------------------
 
 * Simple Radio Frontend: Facilitates prototyping in the 2.4-GHz ISM band
 * Cellular Band Duplexer: Supports common cellular frequency bands.
