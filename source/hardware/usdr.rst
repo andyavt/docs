@@ -32,7 +32,8 @@ General Specifications
 ======================
 
 **FPGA**  
-  - AMD Artix-7 XC7A35T  
+  - AMD Artix-7 XC7A35T
+  - AMD Artix-7 XC7A50T
 
 **Power Consumption**  
   - 2.1 W Typical  
@@ -82,6 +83,13 @@ Temperature Range
 
 **Extended Temperature Version**  
   - -40°C to +105°C, on request  
+
+Pinout
+===================
+
+.. image:: ../_static/usdr_pinout.png
+   :alt: uSDR Pinout Diagram
+
 
 Embedded Integration
 ====================
@@ -157,12 +165,3 @@ Licensing
 **FPGA Gateware**  
   - CERN-OHL-P-2.0  
 
-uSDR Pinout Diagram
-===================
-
-.. image:: ../_static/hw_usdr_2.jpg
-   :alt: uSDR Pinout Diagram
-
-* RX(HF) - RF input for frequencies below 250 MHz
-* RX(UHF) - RF receive input for 250 MHz to 3.8 GHz operation
-* TX(UHF) - RF transmit output for 250 MHz to 3.8 GHz operation
