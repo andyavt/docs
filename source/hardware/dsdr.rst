@@ -24,7 +24,7 @@ General Specifications
   - 20W Max  
 
 **Interface**  
-  - M.2 2280 M key PCIe 4.0 x4 (with debug USB2 interface)
+  - M.2 3080 M key PCIe 4.0 x4 (with debug USB2 interface)
   - 100GbE option (for XCKU5P only)
 
 **Extended Power Supply Range**  
