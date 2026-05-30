@@ -5,9 +5,6 @@ A compact 2RX/2TX Software Defined Radio module in a single-sided M.2 2230 A+E k
 
 .. image:: ../_static/xsdr-front.png
 
-.. image:: ../_static/hw_xsdr.png
-   :alt: xSDR module
-
 Introduction
 ============
 
@@ -34,7 +31,8 @@ General Specifications
 ======================
 
 **FPGA**  
-  - AMD Artix-7 XC7A50T  
+  - AMD Artix-7 XC7A50T
+  - AMD Artix-7 XC7A35T 
 
 **RFIC**  
   - Lime Microsystems LMS7002M  
@@ -71,6 +69,13 @@ RF Specifications
 
 **RF Architecture**  
   - Full-duplex direct-conversion SDR transceiver  
+
+Pinout
+====================
+
+.. image:: ../_static/xSDR_pinout.png
+   :alt: xSDR module
+
 
 Embedded Integration
 ====================
