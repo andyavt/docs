@@ -66,7 +66,7 @@ Pinout
 ======
 
 
-.. image:: ../_static/dsdr/dsdr_schema.png
+.. image:: ../_static/dsdr/dsdr_schema_edit.png
    :alt: dSDR pinout schema
 
 
